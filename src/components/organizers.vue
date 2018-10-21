@@ -8,7 +8,7 @@
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/auwal.jpg" alt="Auwal picture">
                             <h3>Auwal MS</h3>
-                            <p class="organizers_desc">Lafia/Abuja, Nigeria</p>
+                            <p class="organizers_desc">Lafia/Kano, Nigeria</p>
                         </figure>
 
                     </div>
@@ -16,7 +16,7 @@
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/bulama.jpg" alt="Bulama's picture">
                             <h3>Bulama Yusuf</h3>
-                            <p class="organizers_desc">Abuja, Nigeria</p>
+                            <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
 
                     </div>
@@ -28,7 +28,7 @@
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/farida.jpg" alt="Farida's picture">
                             <h3>Farida Kabir</h3>
-                            <p class="organizers_desc">Abuja, Nigeria</p>
+                            <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
                     <div class="column is-6">

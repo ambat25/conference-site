@@ -4,10 +4,10 @@
             <div class="column is-half-tablet">
                 <div class="event-info">
                     <h1 class="title">What you need to know, before you ask.</h1>
-                    <p class="description">GDG DevFest North Central Nigeria brings together world class experts in Android, Web and Cloud technologies to Abuja for a days of sessions, workshops and showcases.</p>
+                    <p class="description">GDG DevFest North West Nigeria brings together world class experts in Android, Web and Cloud technologies to Kano for a days of sessions, workshops and showcases.</p>
                     <div class="level event_info_wrapper">
                         <div class="level-left event_link">
-                            <a target="_blank" rel="noopener" href="https://photos.app.goo.gl/ExTDoMdQujsDwV5p1" class="level-item ">
+                            <a target="_blank" rel="noopener" href="https://photos.app.goo.gl/JeTROhSfaEWz5Nss2" class="level-item ">
                                 <span class="is-vertical event_info_link" >PHOTOS FROM DEVFEST 2017</span>
                                 <b-icon icon="arrow-right-bold-circle" class="event_link_icon"></b-icon>
                             </a>
@@ -41,8 +41,8 @@
                         <div class=" stat-name"><p>Sessions</p></div>
                     </div>
                     <div class="column is-6">
-                        <div class=" stat-numbers"><h1>2</h1></div>
-                        <div class=" stat-name"><p>Tracks</p></div>
+                        <div class=" stat-numbers"><h1>25</h1></div>
+                        <div class=" stat-name"><p>Speakers</p></div>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
     <nav class="navbar is-fixed-top ">
         <div class="container">
             <div class="navbar-brand">
-                <a class="navbar-item" href="/">
+                <a class="navbar-item" href="">
                     <img src="../assets/logo-monochrome.svg" alt="GDG Devfest 2018 Logo" width="150" height="32">
                 </a>
                 <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
@@ -35,12 +35,12 @@
                     <div class="navbar-item">
                         <div class="field is-grouped">
                                 <p class="control">
-                                    <a class="button is-link is-register" href="#">
+                                    <a class="button is-link is-register" target="_blank" href="http://bit.ly/nwdevfest18">
                                         <span>REGISTER</span>
                                     </a>
                                 </p>
                             <p class="control">
-                                <a class="bd-tw-button button is-info" data-social-network="Twitter" data-social-action="tweet" data-social-target="https://www.twitter.com" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Yoo I'm attending North Central Devfest Abuja, you can join me by visiting https://www.ncdevfest.com for more details. &amp;hashtags=DevFest18, Abuja, NCDevfest">
+                                <a class="bd-tw-button button is-info" data-social-network="Twitter" data-social-action="tweet" data-social-target="https://www.twitter.com" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Yoo I'm attending North West Devfest in Kano, you can join me by visiting http://bit.ly/nwdevfest18 for more details. &amp;hashtags=DevFest18, Kano, nwDevfest">
                                     <b-icon
                                         icon="twitter">
                                     </b-icon>

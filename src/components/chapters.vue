@@ -5,7 +5,7 @@
                 <div class="column is-half-tablet">
                     <h1 class="title">ORGANIZING CHAPTERS</h1>
                     <p class="body">
-                        GDG Abuja, GDG Keffi, GDG Lafia, GDG Makurdi, GDG Minna
+                        GDG Kano, GDG Katsina, GDG Sokoto
                     </p>
                 </div>
                 <div class="column is-half-tablet">

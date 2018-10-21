@@ -4,7 +4,7 @@
             <div class="columns is-tablet">
                 <div class="column is-half-tablet">
                     <h4 class="title">
-                        <a href="" class="info">North Central DevFest 2017 Call for Papers</a>
+                        <a href="" class="info">North West DevFest 2017 Call for Papers</a>
                     </h4>
                     <p class="has-text-justified">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
@@ -19,7 +19,7 @@
                 </div>
                 <div class="column is-half-tablet">
                     <h4 class="title">
-                        <a href="" class="info">North Central DevFest 2017 Announced</a>
+                        <a href="" class="info">North West DevFest 2018 Announced</a>
                     </h4>
                     <p class="has-text-justified">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, 

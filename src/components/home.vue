@@ -4,7 +4,6 @@
            <div class="hero-overlay"></div>
            <Navbar/>
            <Body_hero/>
-
         </div>
         <event_info/>
         <organizers/>
@@ -31,11 +30,6 @@ import Pagefooter from "./footer"
 import $ from "jquery";
 export default {
     name: "homepage",
-    data(){
-        return{
-            msg :"Welcome to Buefy"
-        }
-    },
     components : {
         Navbar,
         Body_hero,
