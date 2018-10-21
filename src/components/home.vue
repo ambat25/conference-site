@@ -2,14 +2,12 @@
     <div class="container-fluid">
         <div id="cover" class="hero is-fullheight">
            <div class="hero-overlay"></div>
-           <Navbar/> 
+           <Navbar/>
            <Body_hero/>
-           
         </div>
         <event_info/>
         <organizers/>
         <chapters/>
-        <eventphotos/>
         <registration/>
         <latestnews/>
         <eventmap/>
@@ -24,7 +22,6 @@ import Body_hero from "./body_hero";
 import Event_info from "./event_info";
 import Organizers from "./organizers";
 import Chapters from "./chapters";
-import Eventphotos from './eventphotos'
 import Registration from "./registration";
 import Latestnews from "./latestnews";
 import Eventmap from "./map";
@@ -33,18 +30,12 @@ import Pagefooter from "./footer"
 import $ from "jquery";
 export default {
     name: "homepage",
-    data(){
-        return{
-            msg :"Welcome to Buefy"
-        }
-    },
     components : {
         Navbar,
         Body_hero,
         Event_info,
         Organizers,
         Chapters,
-        Eventphotos,
         Registration,
         Latestnews,
         Eventmap,

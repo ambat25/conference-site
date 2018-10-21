@@ -3,7 +3,7 @@ body {
 }
 /* page landing cover */
 #cover {
-  background: url(../home.jpg) no-repeat center center fixed;
+  background: url(../main.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -278,24 +278,6 @@ figure .gdg-logo {
   padding: 0;
   height: inherit;
 }
-.big-photo {
-  background: url(../event/2017_1.jpg) no-repeat center;
-  background-size: cover;
-}
-
-.small-photo {
-  height: 50%;
-}
-
-#small_one {
-  background: url(../event/2017_2.jpg) no-repeat center;
-  background-size: cover;
-}
-
-#small_two {
-  background: url(../event/2017_3.jpg) no-repeat center;
-  background-size: cover;
-}
 
 .photo-block .photo-block-overlay {
   position: absolute;
@@ -331,9 +313,23 @@ figure .gdg-logo {
     visibility: hidden;
   }
 }
+.contact-us {
+  padding-top: 1.2rem;
+}
+
+section.registration-section {
+  margin-top: 1rem;
+}
 
 /* Pagefooter component styles */
 footer .column a {
   color: #4d4d4d;
   font-size: 12px;
+}
+.footer {
+  padding: 3rem 1.5rem 1rem;
+}
+
+.content.has-text-centered.social-div {
+  padding-top: 0.2rem;
 }
