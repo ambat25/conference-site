@@ -3,7 +3,7 @@
             <div class="content has-text-centered social-div">
                  <h1 class="title">Be Social</h1>
                 <p>
-                Share on experience on <b-icon icon="twitter" alt="twitter logo" class="has-text-info"> </b-icon> and <b-icon icon="facebook" class="has-text-link" alt="facebook logo">
+                Share your experience on <b-icon icon="twitter" alt="twitter logo" class="has-text-info"> </b-icon> and <b-icon icon="facebook" class="has-text-link" alt="facebook logo">
                         </b-icon> and remember to use our hashtags(<strong>#nwDevFest18 #DEVFEST18 #GDG</strong>).
                 </p>
             </div>

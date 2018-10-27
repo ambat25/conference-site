@@ -6,19 +6,17 @@
                 <div class="columns is-mobile">
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/auwal.jpg" alt="Auwal picture">
-                            <h3>Auwal MS</h3>
-                            <p class="organizers_desc">Lafia/Kano, Nigeria</p>
+                            <img class="is-rounded" src="../assets/people/bulama.jpg" alt="Bulama's picture">
+                            <h3>Ibro Zango</h3>
+                            <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
-
                     </div>
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/bulama.jpg" alt="Bulama's picture">
-                            <h3>Bulama Yusuf</h3>
-                            <p class="organizers_desc">Kano, Nigeria</p>
+                            <img class="is-rounded" src="../assets/organizers/yazid.jpeg" alt="Auwal picture">
+                            <h3>Yazid Lawal</h3>
+                            <p class="organizers_desc">Katsina, Nigeria</p>
                         </figure>
-
                     </div>
                 </div>
             </div>
@@ -27,7 +25,7 @@
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/farida.jpg" alt="Farida's picture">
-                            <h3>Farida Kabir</h3>
+                            <h3>Shaheed Daura</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
@@ -35,7 +33,7 @@
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/umar.png" alt="Umar's picture">
                             <h3>Umar Auna</h3>
-                            <p class="organizers_desc">Minna, Nigeria</p>
+                            <p class="organizers_desc">Sokoto, Nigeria</p>
                         </figure>
                     </div>
                 </div>
@@ -46,14 +44,14 @@
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/abdullahi.jpeg" alt="Usman's picture">
                             <h3>Usman Idris</h3>
-                            <p class="organizers_desc">Keffi, Nigeria</p>
+                            <p class="organizers_desc">Katsina, Nigeria</p>
                         </figure>
                     </div>
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/farida.jpg" alt="Pius's picture">
                             <h3>Pius Aboyi</h3>
-                            <p class="organizers_desc">Makurdi, Nigeria</p>
+                            <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
                 </div>

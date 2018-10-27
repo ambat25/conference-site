@@ -1,5 +1,6 @@
 <template>
     <div class="container-fluid">
+        
         <div id="cover" class="hero is-fullheight">
            <div class="hero-overlay"></div>
            <Navbar/>

@@ -2,9 +2,9 @@
     <nav class="navbar is-fixed-top ">
         <div class="container">
             <div class="navbar-brand">
-                <a class="navbar-item" href="">
+                <router-link class="navbar-item" to='/'>
                     <img src="../assets/logo-monochrome.svg" alt="GDG Devfest 2018 Logo" width="150" height="32">
-                </a>
+                </router-link>
                 <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
                     <span></span>
                     <span></span>
@@ -17,9 +17,12 @@
                 </div>
 
                 <div class="navbar-end">
-                    <a class="navbar-item active" href="/">
+                    <router-link class="navbar-item active" to="/">                    
                         HOME
-                    </a>
+                    </router-link>
+                    <router-link class="navbar-item" to="/call_for_speakers">
+                        CALL FOR SPEAKERS
+                    </router-link>
                     <a class="navbar-item" href="#">
                         SPEAKERS
                     </a>
