@@ -6,7 +6,7 @@ import router from './router'
 import VueFire from 'vuefire'
 import firebase from 'firebase/app'
 import 'firebase/firestore'
-import config from '../config.json';
+import config from './config.json';
 import Notifications from 'vue-notification'
 
 Vue.use(Notifications)
