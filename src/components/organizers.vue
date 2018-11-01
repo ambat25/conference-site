@@ -7,7 +7,7 @@
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/bulama.jpg" alt="Bulama's picture">
-                            <h3>Ibro Zango</h3>
+                            <h3>Ibrahim M Adam</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
@@ -24,15 +24,15 @@
                 <div class="columns is-mobile">
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/farida.jpg" alt="Farida's picture">
-                            <h3>Shaheed Daura</h3>
+                            <img class="is-rounded" src="../assets/organizers/shahid.jpg" alt="Farida's picture">
+                            <h3>Shahid Sani</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/umar.png" alt="Umar's picture">
-                            <h3>Umar Auna</h3>
+                            <h3>Calistus</h3>
                             <p class="organizers_desc">Sokoto, Nigeria</p>
                         </figure>
                     </div>
@@ -43,14 +43,14 @@
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/abdullahi.jpeg" alt="Usman's picture">
-                            <h3>Usman Idris</h3>
+                            <h3>Amina M Damo</h3>
                             <p class="organizers_desc">Katsina, Nigeria</p>
                         </figure>
                     </div>
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/people/farida.jpg" alt="Pius's picture">
-                            <h3>Pius Aboyi</h3>
+                            <h3>Abdulrahman M Bashir</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
