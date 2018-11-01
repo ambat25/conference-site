@@ -144,6 +144,13 @@
                 </div>
             </form>
         </div>
+        <div :class="'modal '+load">
+            <div class="modal-background"></div>
+            <div class="modal-content center-text">
+                <div class="lds-dual-ring"></div>
+            </div>
+            <button class="modal-close is-large" aria-label="close"></button>
+        </div>
         <!-- <Pagefooter/> -->
     </div>
 </template>
@@ -172,7 +179,8 @@ export default {
             photo_url:'',
             position:'',
             company:'',
-            self_sponsorship:''
+            self_sponsorship:'',
+            load: ''
         }
     },
     mounted(){
@@ -186,6 +194,7 @@ export default {
     // },
     methods:{
         async submitForm(){
+            this.load ='is-active'
             const speaker = {
                 "name": this.name,
                 "email": this.email,
@@ -201,6 +210,9 @@ export default {
             }
             const x = await db.collection('call_for_speakers').add(speaker)
             if(x){
+                setTimeout(() => {
+                    this.load =''
+                }, 2000);
                 this.name = ''
                 this.email = ''
                 this.phone = ''
