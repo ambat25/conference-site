@@ -6,7 +6,7 @@
                 <div class="columns is-mobile">
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/bulama.jpg" alt="Bulama's picture">
+                            <img class="is-rounded" src="../assets/organizers/zango.jpg" alt="Bulama's picture">
                             <h3>Ibrahim M Adam</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
