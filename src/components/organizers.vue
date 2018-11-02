@@ -31,7 +31,7 @@
                     </div>
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/umar.png" alt="Umar's picture">
+                            <img class="is-rounded" src="../assets/organizers/calistus.jpg" alt="Umar's picture">
                             <h3>Calistus</h3>
                             <p class="organizers_desc">Sokoto, Nigeria</p>
                         </figure>
@@ -42,14 +42,14 @@
                 <div class="columns is-mobile">
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/abdullahi.jpeg" alt="Usman's picture">
+                            <img class="is-rounded" src="../assets/organizers/damo.jpeg" alt="Usman's picture">
                             <h3>Amina M Damo</h3>
-                            <p class="organizers_desc">Katsina, Nigeria</p>
+                            <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
                     <div class="column is-6">
                         <figure class="image is-128x128">
-                            <img class="is-rounded" src="../assets/people/farida.jpg" alt="Pius's picture">
+                            <img class="is-rounded" src="../assets/organizers/ambat.jpg" alt="Pius's picture">
                             <h3>Abdulrahman M Bashir</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
