@@ -10,7 +10,7 @@ import "../assets/stylesheet/style.css"
 Vue.use(Router);
 Vue.use(Buefy);
 
-export default new Router({
+const myRouter = new Router({
   mode:'history',
   routes: [
     {
@@ -22,6 +22,9 @@ export default new Router({
       path: "/call_for_speakers",
       name: "CallForSpeakers",
       component: CallForSpeakers
-    }
+    },
+    { path: "*",name:'error_page', component: Homepage }
   ]
 });
+
+export default  myRouter
