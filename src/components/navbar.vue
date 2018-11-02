@@ -17,10 +17,10 @@
                 </div>
 
                 <div class="navbar-end">
-                    <router-link class="navbar-item active" to="/">                    
+                    <router-link :class="'navbar-item ' + ($route.path === '/'?'active':'')" to="/">                    
                         HOME
                     </router-link>
-                    <router-link class="navbar-item" to="/call_for_speakers">
+                    <router-link :class="'navbar-item ' + ($route.path === '/call_for_speakers'?'active':'')" to="/call_for_speakers">
                         CALL FOR SPEAKERS
                     </router-link>
                     <a class="navbar-item" href="#">
