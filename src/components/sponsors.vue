@@ -61,7 +61,7 @@ export default {
             sponsors : [
                 {
                     "name": "Google",
-                    "logo": require('../assets/sponsors/google.svg')
+                    "logo": require('../assets/sponsors/gdg.png')
                 }
             ]
         }
