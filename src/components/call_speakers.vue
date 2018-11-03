@@ -34,6 +34,20 @@
                         </div>
                         <!-- <p class="help is-danger">Phone is required</p> -->
                     </div>
+
+                    <div class="field column is-half">
+                        <label class="label">Email</label>
+                        <div class="control has-icons-left has-icons-right">
+                            <input v-model="email" class="input" type="email" required placeholder="Email input">
+                            <span class="icon is-small is-left">
+                            <i class="fas fa-envelope"></i>
+                            </span>
+                            <span class="icon is-small is-right">
+                            </span>
+                        </div>
+                        <!-- <p class="help is-danger">This email is invalid</p> -->
+                    </div>
+
                     <div class="field column is-half">
                         <label class="label">Company</label>
                         <div class="control has-icons-left has-icons-right">
@@ -80,18 +94,7 @@
                         </div>
                     </div>
 
-                    <div class="field column is-half">
-                        <label class="label">Email</label>
-                        <div class="control has-icons-left has-icons-right">
-                            <input v-model="email" class="input" type="email" required placeholder="Email input">
-                            <span class="icon is-small is-left">
-                            <i class="fas fa-envelope"></i>
-                            </span>
-                            <span class="icon is-small is-right">
-                            </span>
-                        </div>
-                        <!-- <p class="help is-danger">This email is invalid</p> -->
-                    </div>
+                    
 
                     <div class="field column is-half">
                         <label class="label">Are you willing to sponsor yourself to Kano</label>
@@ -119,20 +122,18 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="field column is-half">
+                        <label class="label">Topic </label>
+                        <div class="control has-icons-left has-icons-right">
+                            <input v-model="topic" class="input" type="text" required placeholder="">
+                            <span class="icon is-small successis-left">
+                            <i class="fas fa-photo"></i>
+                            </span>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="field">
-                    <label class="label">Biography</label>
-                    <div class="control">
-                        <textarea v-model="biography" class="textarea" placeholder="Give your speech in simple words"></textarea>
-                    </div>
-                </div>
-                <div class="field">
-                    <label class="label">Speach brief description</label>
-                    <div class="control">
-                        <textarea v-model="description" class="textarea" placeholder="Give your speech in simple words"></textarea>
-                    </div>
-                </div>
 
                 <div class="field is-grouped">
                     <div class="control">
@@ -173,14 +174,13 @@ export default {
             email:'',
             phone:'',
             category:'',
-            description:'',
-            biography:'',
             social_accounts:'',
             photo_url:'',
             position:'',
             company:'',
             self_sponsorship:'',
-            load: ''
+            load: '',
+            topic: ''
         }
     },
     mounted(){
@@ -200,30 +200,30 @@ export default {
                 "email": this.email,
                 "phone": this.phone,
                 "category": this.category,
-                "description": this.description,
-                "biography": this.biography,
                 "social_accounts": this.social_accounts,
                 "photo_url": this.photo_url,
                 "position": this.position,
                 "company": this.company,
-                "self_sponsorship": this.self_sponsorship                
+                "topic": this.topic,
+                "self_sponsorship": this.self_sponsorship,
+                "created_at": new Date().toISOString()              
             }
             const x = await db.collection('call_for_speakers').add(speaker)
             if(x){
                 setTimeout(() => {
-                    this.load =''
+                    this.load ='',
+                    this.$router.push('/')
                 }, 2000);
                 this.name = ''
                 this.email = ''
                 this.phone = ''
                 this.category = ''
-                this.description = ''
-                this.biography = ''
                 this.social_accounts = ''
                 this.photo_url = ''
                 this.position = ''
                 this.company = ''
                 this.self_sponsorship = ''
+                this.topic = ''
                 this.$notify({
                     group: 'notification',
                     type: 'success',
