@@ -23,7 +23,7 @@
                     <router-link :class="'navbar-item ' + ($route.path === '/call_for_speakers'?'active':'')" to="/call_for_speakers">
                         CALL FOR SPEAKERS
                     </router-link>
-                    <a class="navbar-item" href="#">
+                    <!-- <a class="navbar-item" href="#">
                         SPEAKERS
                     </a>
                     <a class="navbar-item" href="#">
@@ -31,19 +31,19 @@
                     </a>
                     <a class="navbar-item" href="#">
                         TEAM
-                    </a>
+                    </a> -->
                     <!-- <a class="navbar-item" href="#">
                         BLOG
                     </a> -->
                     <div class="navbar-item">
                         <div class="field is-grouped">
                                 <p class="control">
-                                    <a class="button is-link is-register" target="_blank" href="http://bit.ly/nwdevfest18">
+                                    <a class="button is-link is-register" href="http://devfest2018.kano.gdg.ng/register.php">
                                         <span>REGISTER</span>
                                     </a>
                                 </p>
                             <p class="control">
-                                <a class="bd-tw-button button is-info" data-social-network="Twitter" data-social-action="tweet" data-social-target="https://www.twitter.com" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Yoo I'm attending North West Devfest in Kano, you can join me by visiting http://bit.ly/nwdevfest18 for more details. &amp;hashtags=DevFest18, Kano, nwDevfest">
+                                <a class="bd-tw-button button is-info" data-social-network="Twitter" data-social-action="tweet" data-social-target="https://www.twitter.com" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=Yoo!!! I'm attending North West Devfest in Kano, you can join me by visiting http://devfest2018.kano.gdg.ng/register.php for more details. &amp;hashtags=Devfest, DevFest18, Kano, DevfestNW18, DevfestStories">
                                     <b-icon
                                         icon="twitter">
                                     </b-icon>
