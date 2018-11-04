@@ -16,7 +16,7 @@
         <br>
         <br>
         <br>
-        <router-link to='/' class="button is-info">BECOME A PARTNER / SPONSOR</router-link>
+        <!-- <router-link to='/' class="button is-info">BECOME A PARTNER / SPONSOR</router-link> -->
     </section>
 </template>
 <script>
