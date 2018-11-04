@@ -10,7 +10,7 @@
         <organizers/>
         <chapters/>
         <registration/>
-        <latestnews/>
+        <!-- <latestnews/> -->
         <eventmap/>
         <sponsors/>
         <pagefooter/>
