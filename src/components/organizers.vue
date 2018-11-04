@@ -32,7 +32,7 @@
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/organizers/calistus.jpeg" alt="Umar's picture">
-                            <h3>Calistus</h3>
+                            <h3>Dele Amefo</h3>
                             <p class="organizers_desc">Sokoto, Nigeria</p>
                         </figure>
                     </div>
