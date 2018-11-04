@@ -28,9 +28,6 @@ export default {
                     "logo": require('../assets/partners/partner1.jpg')
                 },
                 {
-                    "logo": require('../assets/partners/partner2.png')
-                },
-                {
                     "logo": require('../assets/partners/partner3.png')
                 },
                 {
@@ -56,6 +53,12 @@ export default {
                 },
                 {
                     "logo": require('../assets/partners/partner12.jpg')
+                },
+                {
+                    "logo": require('../assets/partners/partner13.jpeg')
+                },
+                {
+                    "logo": require('../assets/partners/partner2.jpeg')
                 }
             ],
             sponsors : [
