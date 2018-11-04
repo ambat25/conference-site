@@ -38,7 +38,7 @@
                     <div class="navbar-item">
                         <div class="field is-grouped">
                                 <p class="control">
-                                    <a class="button is-link is-register" href="http://devfest2018.kano.gdg.ng/register.php">
+                                    <a class="button is-link is-register" href="http://devfest18.kano.gdg.ng/register.php">
                                         <span>REGISTER</span>
                                     </a>
                                 </p>
