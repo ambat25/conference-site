@@ -86,7 +86,7 @@
                     <div class="column is-6">
                         <figure class="image is-128x128">
                             <img class="is-rounded" src="../assets/organizers/aliyu.jpg" alt="Umar's picture">
-                            <h3>Aliyu Muhammad</h3>
+                            <h3>Aliyu Ibrahim Sulaiman</h3>
                             <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
@@ -106,6 +106,17 @@
                             <img class="is-rounded" src="../assets/organizers/abdulhakeem.jpeg" alt="Pius's picture">
                             <h3>Abdulhakeem Bashir</h3>
                             <p class="organizers_desc">Katsina, Nigeria</p>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-4">
+                <div class="columns is-mobile">
+                    <div class="column is-6">
+                        <figure class="image is-128x128">
+                            <img class="is-rounded" src="../assets/organizers/aminu.jpeg" alt="Usman's picture">
+                            <h3>Aminu Muhammad</h3>
+                            <p class="organizers_desc">Kano, Nigeria</p>
                         </figure>
                     </div>
                 </div>
